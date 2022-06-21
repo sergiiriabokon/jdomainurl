@@ -1,0 +1,4 @@
+JDomainURL
+
+Retrieves top level domain from URL.
+Example: http://nested.top.com/ -> top.com
